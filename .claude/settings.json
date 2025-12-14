@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "mcp-on-demand": {
+      "description": "Dynamically install and use any MCP server from npm, GitHub, PyPI, or HTTP endpoints. Use when the user wants to interact with MCP tools, call MCP server functions, or work with Model Context Protocol servers.",
+      "path": ".claude/skills/mcp-on-demand"
+    }
+  }
+}
